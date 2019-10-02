@@ -1,1 +1,1 @@
-This is my first repository on GitHub.
+This is my first repository on GitHub. This repository is for Tic Tac Toe game built using Python.
